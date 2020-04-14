@@ -1,0 +1,2 @@
+# vuexy
+Vuexy laravel template
